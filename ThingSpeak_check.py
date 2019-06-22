@@ -2,7 +2,6 @@ import urllib.request
 import time
 import math
 from bs4 import BeautifulSoup
-#data = ('Ankan',20,'IITK')
 add = 50
 val=100
 while val<1200:
